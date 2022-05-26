@@ -2,7 +2,6 @@
 
 challenge= ["science", "turbo", ["goggles", "eyes"], "nothing"]
 
-
 a=(challenge[2][1])
 b=(challenge[2][0])
 c=(challenge[3])
